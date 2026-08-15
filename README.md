@@ -12,7 +12,6 @@ Hey! I'm **Theron**, an Economics Honours graduate from the **University of Delh
 
 - Currently building my **Quantitative Finance** knowledge
 - Preparing for **Masters in Statistics**
-- Practicing alphas on **WorldQuant BRAIN**
 - Learning and building with **Python**
 
 ---
